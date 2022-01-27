@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "weather123-fc4e2",
+    "staging": "weather-application-1e67c",
+    "weather": "weather123-fc4e2"
+  },
+  "targets": {}
+}
